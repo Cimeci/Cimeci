@@ -1,10 +1,12 @@
-<h1> Hi, I'm Cimeci </h1>
+<h1> Hi, I'm Ilan </h1>
+  
+- I love learning in all areas
 
-Real name Ilan
+- I study at the school 42 Angouleme
 
-I study at the school 42 Angouleme.
+- I plan to code in the cyber world
 
-I plan to code in the cyber world.
+---
 
 <h2 align="left">Mains Programming Languages: </h3>
 <p align="left">
