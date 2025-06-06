@@ -20,6 +20,7 @@
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/> </a>
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> </a>
+  <a> <img src="https://cours.cocadmin.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiUDRMTWtRYkNvWWRUNk5pRThaakVURWJ3IiwiZG9tYWluIjoiY291cnMuY29jYWRtaW4uY29tIn0.HogF8S6jOTzXpQgkUT95wShOUHYR5Z_iC48H1T41mOI" width="60" height="50"/> </a>
 </p>
 
 <h2 align="left">Environments:</h3>
