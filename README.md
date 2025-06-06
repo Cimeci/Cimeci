@@ -4,7 +4,7 @@
 
 - I study at the school 42 Angouleme
 
-- I plan to code in the cyber world
+- I plan to code in the cyber world or Unix
 
 ---
 
