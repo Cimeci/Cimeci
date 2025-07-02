@@ -23,7 +23,7 @@
   <a> <img src="https://cours.cocadmin.com/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiUDRMTWtRYkNvWWRUNk5pRThaakVURWJ3IiwiZG9tYWluIjoiY291cnMuY29jYWRtaW4uY29tIn0.HogF8S6jOTzXpQgkUT95wShOUHYR5Z_iC48H1T41mOI" width="60" height="50"/> </a>
 </p>
 
-<h2 align="left">Environments:</h3>
+<h2 align="left">Code Environments:</h3>
 <p align="left">
   <a> <img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/> </a> 
   <a> <img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="60" height="60"/> </a>
