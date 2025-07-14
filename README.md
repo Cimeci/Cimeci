@@ -14,11 +14,11 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ## Other Programming Languages
-[![My Second Skills](https://skillicons.dev/icons?i=py,html,css,ts,docker)](https://skillicons.dev)
+[![My Second Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,py,docker)](https://skillicons.dev)
 <a><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="60" height="60"/></a>
 
 ## Code Environments
-[![My Environments](https://skillicons.dev/icons?i=bash,vscode,github,linux,ubuntu)](https://skillicons.dev)
+[![My Environments](https://skillicons.dev/icons?i=vscode,vim,linux,ubuntu,github,git,bash)](https://skillicons.dev)
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" width="40" height="40"/> </a>
 
 ## Cyber World
