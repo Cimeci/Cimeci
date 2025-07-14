@@ -1,3 +1,5 @@
+![Banner](banner.jpg)
+
 <h1> Hi, I'm Ilan </h1>
   
 - I love learning in all areas
