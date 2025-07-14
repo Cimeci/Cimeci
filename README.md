@@ -1,4 +1,4 @@
-![Banner](banner2.jpg)
+![Banner](banner.gif)
 
 <h1> Hi, I'm Ilan </h1>
   
