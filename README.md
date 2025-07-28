@@ -25,7 +25,7 @@
 <h2 align="center">My Others Skills</h2>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejshtml,css,tailwind,py,docker" height="60"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css,tailwind,py,docker" height="60"/>
     <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" height="60"/>
   </a>
 </p>
