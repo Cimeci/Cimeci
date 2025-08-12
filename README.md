@@ -15,7 +15,7 @@
   <a href="mailto:ilannowakglandier@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
-<h2 align="center">Main Programming Skills</h2>
+<h2 align="center">Main Stack</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=c,cpp,ts,tailwind"/>
