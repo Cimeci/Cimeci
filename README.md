@@ -11,8 +11,8 @@
 <p align="center">
   <a href="www.linkedin.com/in/ilan-nowak-glandier"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://www.instagram.com/ilan_ng23"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://www.instagram.com/ilan_ng23"><img src="https://skillicons.dev/icons?i=discord"/></a>
-  <a href="mailto:ilan.nowakglandiere@outlook.fr"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.discord.com/Cimeci"><img src="https://skillicons.dev/icons?i=discord"/></a>
+  <a href="mailto:ilannowakglandier@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 <h2 align="center">Main Programming Skills</h2>
