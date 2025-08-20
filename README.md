@@ -6,6 +6,7 @@
   My name is Ilan, i'm 18 years old. I love learning in all areas, I currently study at the school 42 Angouleme FR.
   I plan to code in the cyberworld actually.
 </p>
+<img src="MyGithubIcone.png"><img>
 
 <h2 align="center">Contact me</h2>
 <p align="center">
