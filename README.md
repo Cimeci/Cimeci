@@ -2,7 +2,7 @@
 
 <h2 align="center">
   About me
-  <img src="MyGithubIcone.png" width="40px" height="40px">
+  <img src="MyGithubIcone.png" width="50px" height="50px">
 </h2>
 
 <p align="center">
